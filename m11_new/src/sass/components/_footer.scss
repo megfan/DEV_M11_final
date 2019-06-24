@@ -1,0 +1,13 @@
+.footer{
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: $primary-dark;
+    width: 100%;
+    background: #fff;
+    &_details{
+        margin-right: 10rem;
+        text-align: right;
+    }
+}
